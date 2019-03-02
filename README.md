@@ -4,8 +4,8 @@ The familiar game of Rock, Paper, Scissors is played like this at the same time,
 ##Language Used : HTML,CSS,JS
 
 ###Screenshots : 
-        <img src="https://github.com/subhaasree/Rock-Paper-Scissors/assets/snap1.png" alt="Sign in" width="300">
-                <img src="https://github.com/subhaasree/Rock-Paper-Scissors/assets/snap2.png" alt="Sign in" width="300">
+        <img src="https://github.com/subhaasree/Rock-Paper-Scissors/blob/master/assets/snap1.png" alt="Sign in" width="300">
+        <img src="https://github.com/subhaasree/Rock-Paper-Scissors/blob/master/assets/snap2.png" alt="Sign in" width="300">
 
 
       
